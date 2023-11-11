@@ -66,6 +66,6 @@ There is a cascade pattern in birth quarter frequency.
 
 This analysis indicates a potential impact of birth quarters on the likelihood of players making it to the NHL, especially for Canadian players.
 
-[link-to-image-all-players]: insert-link-here
-[link-to-image-canadian-players]: insert-link-here
-```
+## Notes
+- Output of the code blocks above are included in the R markdown file
+- The previous code blocks are exlusively from the iron_law_analysis

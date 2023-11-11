@@ -7,10 +7,10 @@ This analysis explores the distribution of NHL players based on birth quarters a
 
 ### Visual Representation
 - Bar plot showing the distribution of birth quarters for all players.
-  ![Distribution of Birth Quarters for All Players](link-to-image-all-players)
+  ![Distribution of Birth Quarters for All Players]
 
 - Bar plot showing the distribution of birth quarters for Canadian players.
-  ![Distribution of Birth Quarters for Canadian Players](link-to-image-canadian-players)
+  ![Distribution of Birth Quarters for Canadian Players]
 
 ### Hypothesis Test
 - Percentage of each birth quarter in the datasets.
@@ -71,5 +71,3 @@ This analysis indicates a potential impact of birth quarters on the likelihood o
 [link-to-image-all-players]: insert-link-here
 [link-to-image-canadian-players]: insert-link-here
 ```
-
-Make sure to replace "insert-link-here" with the actual links to your images. This Markdown file can be saved with a .md extension and uploaded to your GitHub repository for a neat and interactive display.

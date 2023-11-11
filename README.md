@@ -48,7 +48,30 @@ The `iron_law_analysis` script conducts a comprehensive analysis. It explores th
 
 ## Results
 
-My analysis reveals a statistically significant difference in birth quarter distributions for Canadian players, affirming the impact of birth months on NHL success. The project's findings challenge traditional narratives of merit-based success.
+My analysis reveals a statistically significant difference in birth quarter distributions for Canadian players, affirming the impact of birth months on NHL success. The project's findings challenge traditional narratives of merit-based success. As the inspriation for this project was derived from the book __Outliers__, the script file iron_law_analysis includes an output of percent of players in each category. The output of the text analysis shows that **32.2%** of Canadian born NHL players were born in the months of January, Febuary, and March. **28.11%** of Canadian Born NHL players were born in the months of April, May, and June. **24%** of Canadian born NHL players were born in the months of July, August, and September. And finally **15.64%** of Canadian born NHL players were born in the months of October, November, and December.
+
+My analysis reveals similar results to Gladwell's proposal. Gladwell's "iron law of Canadian hockey" says that in any elite group of hockey players, 40% are born between January and March, 30% between April and June, 20% between July and September, and 10% between October and December. As shown in the output of the bar charts in my analysis, this propsoal is mostly consistent, there is a cascade pattern in birth quarters. So, why is this the case and how is this anamoly so apparent? 
+
+The answer comes from the Canada eligibility cutoff for age-class which is January 1st. As the article [Bloody Elbow]([https://bloodyelbow.com/2012/01/04/out-liar-what-malcolm-gladwell-gets-wrong-about-the-relative-age/]) emphasizes, "Someone born in Febuary therefore has an extra 10 months of growth over a December baby." While this is insignificant to adults, younger-aged kids grow rapidly, giving kids who have that age advantage a greater chance to compete and succeed.
+
+This general thesis does not only apply to Canadian hocket players, as Gladwell says, "There is something profoundly wrong with the way we make sense of success". To leave you with this snowball effect of a thought, here are a few stories and analogies to sink in how we may think about success. 
+
+**Analogy 1: Tallest Tree in the Forest**
+
+Gladwell offers us an analogy in __Outliers__, the tallest tree in the forest came from from a good seed - this is not in question. But it did not become the tallest tree in the forest simply because it grew from a good seed; it became the tallest tree because it was planted in good soil and because no other trees blocked its sunlight.
+
+**Story 1: Steve Jobs and the Early Computer Advantage**
+
+Consider the story of Steve Jobs, a tech visionary who co-founded Apple. In high school, Jobs had a unique advantage – access to computers. At a time when computers were scarce, Jobs found an opportunity to explore his passion. His school, equipped with computers through a government program, allowed him to delve into this emerging technology. This early exposure set him on a trajectory that ultimately led to the creation of groundbreaking products. Jobs' story underscores the impact of early opportunities and access, illustrating how seemingly small advantages can pave the way for extraordinary success.
+
+**Analogy 2: The Chessboard and Strategic Moves**
+
+Imagine success as a chessboard, where each move represents an opportunity or setback. Like chess pieces, individuals navigate this board, aiming for success. However, not all pieces start in the same position. Some begin closer to the center, with a strategic advantage. Others start on the outskirts, requiring more strategic moves to reach success. This analogy reflects the unequal starting points individuals face in their journeys. Success, much like chess, involves both skillful maneuvering and initial positioning, emphasizing the need to consider the broader landscape in the pursuit of one's goals.
+
+**Story 2: The Marathon and Starting Line Conditions**
+
+Picture success as a marathon, with each participant aiming for the finish line. However, the starting line conditions vary. Some begin at the front, with a clear path ahead, while others start farther back, encountering obstacles. This marathon mirrors the journey to success, where external factors, like birth month in the case of hockey players, influence the ease or difficulty of the race. Just as marathoners face diverse challenges, individuals in their pursuits grapple with different starting conditions that significantly impact their paths to success. Recognizing and addressing these disparities is essential for creating a more equitable playing field.
+
 
 ## Usage
 

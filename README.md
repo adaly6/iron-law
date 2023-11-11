@@ -54,7 +54,7 @@ My analysis reveals similar results to Gladwell's proposal. Gladwell's "iron law
 
 The answer comes from the Canada eligibility cutoff for age-class which is January 1st. As the article [Bloody Elbow](https://bloodyelbow.com/2012/01/04/out-liar-what-malcolm-gladwell-gets-wrong-about-the-relative-age/) emphasizes, "Someone born in Febuary therefore has an extra 10 months of growth over a December baby." While this is insignificant to adults, younger-aged kids grow rapidly, giving kids who have that age advantage a greater chance to compete and succeed.
 
-This general thesis does not only apply to Canadian hocket players, as Gladwell says, "There is something profoundly wrong with the way we make sense of success". To leave you with this snowball effect of a thought, here are a few stories and analogies to sink in how we may think about success. 
+This general thesis does not only apply to Canadian hockey players, as Gladwell says, "There is something profoundly wrong with the way we make sense of success". To leave you with this snowball effect of a thought, here are a few stories and analogies to sink in how we may think about success. 
 
 **Analogy 1: Tallest Tree in the Forest**
 

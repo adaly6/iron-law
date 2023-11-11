@@ -1,0 +1,123 @@
+---
+title: "NHL Player Analysis"
+output: 
+  html_document:
+    theme: united
+    highlight: tango
+---
+
+# Load necessary libraries
+```{r echo=TRUE, message=FALSE}
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+```
+
+# Read the data
+```{r}
+canadian_players <- read.csv("canadian_players.csv")
+all_players <- read.csv("all_players.csv")
+```
+
+## Explore and Visualize the Distribution of Birth Quarters
+
+### Distribution for All Players
+```{r echo=TRUE}
+ggplot(all_players, aes(x = factor(BirthQuarter))) +
+  geom_bar(fill = "skyblue", color = "black") +
+  labs(title = "Distribution of Birth Quarters for All Players", y = "Count") +
+  theme_minimal()
+```
+
+### Distribution for Canadian Players
+```{r echo=TRUE}
+ggplot(canadian_players, aes(x = factor(BirthQuarter))) +
+  geom_bar(fill = "lightgreen", color = "black") +
+  labs(title = "Distribution of Birth Quarters for Canadian Players", y = "Count") +
+  theme_minimal()
+```
+
+The bar plots do not show a significant difference visually.
+
+## Hypothesis Test for Birth Quarters
+
+### Percentage of Each Birth Quarter
+```{r echo=TRUE}
+percent_table_all <- table(all_players$BirthQuarter) / nrow(all_players) * 100
+percent_table_canadian <- table(canadian_players$BirthQuarter) / nrow(canadian_players) * 100
+
+two_way_table <- cbind(percent_table_all, percent_table_canadian)
+colnames(two_way_table) <- c("All Players", "Canadian Players")
+two_way_table
+```
+
+### Hypothesis Test (Chi-squared)
+```{r echo=TRUE}
+test_result <- chisq.test(two_way_table)
+test_result
+```
+
+Fail to reject the null hypothesis; the birth quarter distributions are not statistically different.
+
+## Explore Player Positions
+
+### Relative Tables
+```{r echo=TRUE}
+relative_table_all <- table(all_players$Position) / nrow(all_players) * 100
+relative_table_canadian <- table(canadian_players$Position) / nrow(canadian_players) * 100
+
+relative_table_all
+relative_table_canadian
+```
+
+No statistically significant differences in player positions for Canadian players.
+
+### Two-way Table for Player Positions
+```{r echo=TRUE}
+position_table_all <- table(all_players$Position)
+position_table_canadian <- table(canadian_players$Position)
+
+percent_table_all_positions <- position_table_all / sum(position_table_all) * 100
+percent_table_canadian_positions <- position_table_canadian / sum(position_table_canadian) * 100
+
+two_way_table_positions <- cbind(percent_table_all_positions, percent_table_canadian_positions)
+colnames(two_way_table_positions) <- c("All Players", "Canadian Players")
+two_way_table_positions
+```
+
+### Hypothesis Test for Player Positions (Chi-squared)
+```{r echo=TRUE}
+test_result_positions <- chisq.test(two_way_table_positions)
+test_result_positions
+```
+
+Fail to reject the null hypothesis; the position distributions are not statistically different.
+
+## Analyze Birth Quarter Frequency
+
+### Table for Birth Quarters in Canadian Players
+```{r echo=TRUE}
+quarter_table_canadian <- table(canadian_players$BirthQuarter)
+quarter_table_canadian
+```
+
+### Chi-squared Test for Birth Quarters in Canadian Players
+```{r echo=TRUE}
+chi_square_result <- chisq.test(quarter_table_canadian)
+chi_square_result
+```
+
+Reject the null hypothesis; a statistically significant difference in birth quarter distribution for Canadian players.
+
+### Percentage Table for Birth Quarters in Canadian Players
+```{r echo=TRUE}
+percent_table_canadian <- quarter_table_canadian / sum(quarter_table_canadian) * 100
+percent_df_canadian <- data.frame(Quarter = as.character(seq_along(percent_table_canadian)), Percentage = percent_table_canadian)
+percent_df_canadian
+```
+
+There is a cascade pattern in birth quarter frequency.
+
+---
+
+This analysis indicates a potential impact of birth quarters on the likelihood of players making it to the NHL, especially for Canadian players.

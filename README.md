@@ -49,7 +49,7 @@ The `iron_law_analysis` script conducts a comprehensive analysis. It explores th
 
 ## Results
 
-Our analysis reveals a statistically significant difference in birth quarter distributions for Canadian players, affirming the impact of birth months on NHL success. The project's findings challenge traditional narratives of merit-based success.
+My analysis reveals a statistically significant difference in birth quarter distributions for Canadian players, affirming the impact of birth months on NHL success. The project's findings challenge traditional narratives of merit-based success.
 
 ## Usage
 

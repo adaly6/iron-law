@@ -1,0 +1,822 @@
+"Name","Position","Birthdate","Birthplace","BirthMonth","BirthQuarter"
+"Leo Carlsson","C","12/26/2004","Karlstad, SE","12",4
+"Sam Carrick","C","2/4/1992","Markham, ON","02",1
+"Benoit-Olivier Groulx","C","2/6/2000","Gatineau, PQ","02",1
+"Adam Henrique","C","2/6/1990","Brantford, ON","02",1
+"Mason McTavish","C","1/30/2003","Zurich, Switzerland","01",1
+"Ryan Strome","C","7/11/1993","Mississauga, ON","07",3
+"Trevor Zegras","C","3/20/2001","Bedford, NY","03",1
+"Ross Johnston","LW","2/18/1994","Charlottetown, PE","02",1
+"Max Jones","LW","2/17/1998","Rochester, MI","02",1
+"Alex Killorn","LW","9/14/1989","Halifax, NS","09",3
+"Brett Leason","RW","4/30/1999","Calgary, AB","04",2
+"Jakob Silfverberg","LW","10/13/1990","Gavle, Sweden","10",4
+"Troy Terry","RW","9/10/1997","Denver, CO","09",3
+"Frank Vatrano","RW","3/14/1994","East Longmeadow, MA","03",1
+"Cam Fowler","D","12/5/1991","Windsor, ON","12",4
+"Radko Gudas","D","6/5/1990","Prague, Czechoslovakia","06",2
+"Robert Hagg","D","2/8/1995","Uppsala, Sweden","02",1
+"Jackson LaCombe","D","1/9/2001","Eden Prairie, MN","01",1
+"Tristan Luneau","D","1/12/2004","Victoriaville, CA","01",1
+"Ilya Lyubushkin","D","4/6/1994","Moscow, Russia","04",2
+"Pavel Mintyukov","D","11/25/2003","Moscow, RU","11",4
+"Urho Vaakanainen","D","1/1/1999","Joensuu, Finland","01",1
+"Olen Zellweger","D","9/10/2003","Calgary, AB","09",3
+"Lukas Dostal","G","6/22/2000","Brno, Czech Republic","06",2
+"Olle Eriksson Ek","G","6/22/1999","Karlstad, Sweden","06",2
+"John Gibson","G","7/14/1993","Pittsburgh, PA","07",3
+"Nick Bjugstad","C","7/17/1992","Minneapolis, MN","07",3
+"Travis Boyd","C","9/14/1993","Hopkins, MN","09",3
+"Logan Cooley","C","5/4/2004","Pittsburgh, PA","05",2
+"Barrett Hayton","C","6/9/2000","Peterborough, ON","06",2
+"Clayton Keller","C","7/29/1998","Chesterfield, MO","07",3
+"Alexander Kerfoot","C","8/11/1994","Vancouver, BC","08",3
+"Jack McBain","C","1/6/2000","Toronto, CA","01",1
+"Nick Schmaltz","C","2/23/1996","Madison, WI","02",1
+"Travis Barron","LW","8/17/1998","Brampton, ON","08",3
+"Michael Carcone","LW","5/19/1996","Ajax, ON","05",2
+"Lawson Crouse","LW","6/23/1997","Mt. Brydges, ON","06",2
+"Jan Jenik","RW","9/15/2000","Nymburk, Czech Republic","09",3
+"Milos Kelemen","LW","7/6/1999","Lucenec, Slovakia","07",3
+"Matias Maccelli","LW","10/14/2000","Turku, Finland","10",4
+"Liam O'Brien","LW","7/29/1994","Halifax, NS","07",3
+"Zach Sanford","LW","11/9/1994","Salem, MA","11",4
+"Jakub Voracek","RW","8/15/1989","Kladno, Czechoslovakia","08",3
+"Jason Zucker","LW","1/16/1992","Newport Beach, CA","01",1
+"Josh Brown","D","1/21/1994","London, ON","01",1
+"Travis Dermott","D","12/22/1996","Newmarket, ON","12",4
+"Matt Dumba","D","7/25/1994","Regina, SK","07",3
+"Sean Durzi","D","10/21/1998","Mississauga, ON","10",4
+"Michael Kesselring","D","1/13/2000","Florence, SC","01",1
+"Janis Moser","D","6/6/2000","Biel, Switzerland","06",2
+"Troy Stecher","D","4/7/1994","Richmond, BC","04",2
+"Juuso Valimaki","D","10/6/1998","Tampere, Finland","10",4
+"Connor Ingram","G","3/31/1997","Saskatoon, SK","03",1
+"Karel Vejmelka","G","5/25/1996","Trebic, Czech Republic","05",2
+"Matt Villalta","G","1/3/1999","Kingston, ON","01",1
+"John Beecher","C","4/5/2001","Elmira, NY","04",2
+"Patrick Brown","C","5/29/1992","Bloomfield Hills, MI","05",2
+"Charlie Coyle","C","3/2/1992","East Weymouth, MA","03",1
+"Trent Frederic","C","2/11/1998","St. Louis, MO","02",1
+"Jakub Lauko","C","3/28/2000","Prague, Czech Republic","03",1
+"Jayson Megna","C","2/1/1990","Fort Lauderdale, FL","02",1
+"Matthew Poitras","C","3/10/2004","Ajax, CA","03",1
+"Oskar Steen","C","3/9/1998","Karlstad, Sweden","03",1
+"Pavel Zacha","C","4/6/1997","Brno, Czech Republic","04",2
+"Jake DeBrusk","LW","10/17/1996","Edmonton, AB","10",4
+"Danton Heinen","LW","7/5/1995","Langley, BC","07",3
+"Brad Marchand","LW","5/11/1988","Halifax, NS","05",2
+"David Pastrnak","RW","5/25/1996","Havirov, Czech Republic","05",2
+"Anthony Richard","LW","12/20/1996","Trois-Rivieres, PQ","12",4
+"James van Riemsdyk","LW","5/4/1989","Middletown, NJ","05",2
+"Brandon Carlo","D","11/26/1996","Colorado Springs, CO","11",4
+"Derek Forbort","D","3/4/1992","Duluth, MN","03",1
+"Hampus Lindholm","D","1/20/1994","Helsingborg, Sweden","01",1
+"Mason Lohrei","D","1/17/2001","Verona, WI","01",1
+"Charlie McAvoy","D","12/21/1997","Long Beach, NY","12",4
+"Ian Mitchell","D","1/18/1999","St. Albert, AB","01",1
+"Kevin Shattenkirk","D","1/29/1989","New Rochelle, NY","01",1
+"Anton Stralman","D","8/1/1986","Tibro, Sweden","08",3
+"Parker Wotherspoon","D","8/24/1997","Surrey, BC","08",3
+"Brandon Bussi","G","6/25/1998","Sound Beach, NY","06",2
+"Kyle Keyser","G","3/8/1999","Coral Springs, FL","03",1
+"Jeremy Swayman","G","11/24/1998","Anchorage, AK","11",4
+"Linus Ullmark","G","7/31/1993","Lugnvik, Sweden","07",3
+"Dylan Cozens","C","2/9/2001","Whitehorse, YT","02",1
+"Ryan Johnson","C","7/24/2001","Irvine, CA","07",3
+"Tyson Jost","C","3/14/1998","St. Albert, AB","03",1
+"Peyton Krebs","C","1/26/2001","Calgary, AB","01",1
+"Casey Mittelstadt","C","11/22/1998","Eden Prairie, MN","11",4
+"Matthew Savoie","C","1/1/2004","St. Albert, CA","01",1
+"Tage Thompson","C","10/30/1997","Phoenix, AZ","10",4
+"Zemgus Girgensons","LW","1/5/1994","Riga, Latvia","01",1
+"Jordan Greenway","LW","2/16/1997","Canton, NY","02",1
+"Kyle Okposo","RW","4/16/1988","St. Paul, MN","04",2
+"Victor Olofsson","LW","7/18/1995","Ornskoldsvik, Sweden","07",3
+"John-Jason Peterka","RW","1/14/2002","Munich, Germany","01",1
+"Lukas Rousek","RW","4/20/1999","Ostrov nad Ohri, Czech Republic","04",2
+"Jeff Skinner","LW","5/16/1992","Toronto, ON","05",2
+"Alex Tuch","RW","5/10/1996","Syracuse, NY","05",2
+"Jacob Bryson","D","11/18/1997","London, ON","11",4
+"Kale Clague","D","6/5/1998","Regina, SK","06",2
+"Connor Clifton","D","4/28/1995","Long Branch, NJ","04",2
+"Rasmus Dahlin","D","4/13/2000","Lidkoping, Sweden","04",2
+"Jeremy Davies","D","12/4/1996","St-Anne-de-Bellevue, PQ","12",4
+"Erik Johnson","D","3/21/1988","Bloomington, MN","03",1
+"Henri Jokiharju","D","6/17/1999","Oulu, Finland","06",2
+"Owen Power","D","11/22/2002","Mississauga, CA","11",4
+"Devin Cooley","G","5/25/1997","Los Gatos, CA","05",2
+"Devon Levi","G","12/27/2001","Dollard-des-Ormeaux, CA","12",4
+"Ukko-Pekka Luukkonen","G","3/9/1999","Espoo, Finland","03",1
+"Dustin Tokarski","G","9/16/1989","Watson, SK","09",3
+"Mikael Backlund","C","3/17/1989","Vasteras, Sweden","03",1
+"Blake Coleman","C","11/28/1991","Plano, TX","11",4
+"Dillon Dube","C","7/20/1998","Golden, BC","07",3
+"Jonathan Huberdeau","C","6/4/1993","Saint-Jerome, PQ","06",2
+"Nazem Kadri","C","10/6/1990","London, ON","10",4
+"Elias Lindholm","C","12/2/1994","Boden, Sweden","12",4
+"Martin Pospisil","C","11/19/1999","Zvolen, Slovakia","11",4
+"Adam Ruzicka","C","5/11/1999","Bratislava, Slovakia","05",2
+"Yegor Sharangovich","C","6/6/1998","Minsk, Belarus","06",2
+"Connor Zary","C","9/25/2001","Saskatoon, SK","09",3
+"Walker Duehr","RW","11/23/1997","Sioux Falls, SD","11",4
+"A.J. Greer","LW","12/14/1996","Joliette, PQ","12",4
+"Andrew Mangiapane","LW","4/4/1996","Toronto, ON","04",2
+"Rasmus Andersson","D","10/27/1996","Malmo, Sweden","10",4
+"Nick DeSimone","D","11/21/1994","East Amherst, NY","11",4
+"Dennis Gilbert","D","10/30/1996","Buffalo, NY","10",4
+"Noah Hanifin","D","1/25/1997","Boston, MA","01",1
+"Ilya Solovyov","D","7/20/2000","Mogilev, Belarus","07",3
+"Christopher Tanev","D","12/20/1989","Toronto, ON","12",4
+"MacKenzie Weegar","D","1/7/1994","Ottawa, ON","01",1
+"Nikita Zadorov","D","4/16/1995","Moscow, Russia","04",2
+"Jacob Markstrom","G","1/31/1990","Gavle, Sweden","01",1
+"Dan Vladar","G","8/20/1997","Prague, Czech Republic","08",3
+"Dustin Wolf","G","4/16/2001","Tustin, CA","04",2
+"Callahan Burke","C","3/19/1997","Boxborough, MA","03",1
+"Jack Drury","C","2/3/2000","New York, NY","02",1
+"Seth Jarvis","C","2/1/2002","Winnipeg, MB","02",1
+"Jesperi Kotkaniemi","C","7/6/2000","Pori, Finland","07",3
+"Martin Necas","C","1/15/1999","Nove Mesto na Morave, Czech Republic","01",1
+"Jordan Staal","C","9/10/1988","Thunder Bay, ON","09",3
+"Ryan Suzuki","C","5/28/2001","London, ON","05",2
+"Sebastian Aho","LW","7/26/1997","Rauma, Finland","07",3
+"Michael Bunting","LW","9/17/1995","Scarborough, ON","09",3
+"Jesper Fast","RW","12/2/1991","Nassjo, Sweden","12",4
+"Brendan Lemieux","LW","3/15/1996","Denver, CO","03",1
+"Jordan Martinook","LW","7/25/1992","Brandon, MB","07",3
+"Stefan Noesen","RW","2/12/1993","Plano, TX","02",1
+"Andrei Svechnikov","RW","3/26/2000","Barnaul, Russia","03",1
+"Teuvo Teravainen","LW","9/11/1994","Helsinki, Finland","09",3
+"Brent Burns","D","3/9/1985","Barrie, ON","03",1
+"Jalen Chatfield","D","5/15/1996","Ypsilanti, MI","05",2
+"Dylan Coghlan","D","2/19/1998","Duncan, BC","02",1
+"Tony DeAngelo","D","10/24/1995","Sewell, NJ","10",4
+"Dmitry Orlov","D","7/23/1991","Novokuznetsk, USSR","07",3
+"Brett Pesce","D","11/15/1994","Tarrytown, NY","11",4
+"Brady Skjei","D","3/26/1994","Lakeville, MN","03",1
+"Jaccob Slavin","D","5/1/1994","Denver, CO","05",2
+"Pyotr Kochetkov","G","6/25/1999","Penza, Russia","06",2
+"Antti Raanta","G","5/12/1989","Rauma, Finland","05",2
+"Andreas Athanasiou","C","8/6/1994","Woodbridge, ON","08",3
+"Connor Bedard","C","7/17/2005","North Vancouver, CA","07",3
+"Jason Dickinson","C","7/4/1995","Georgetown, ON","07",3
+"Ryan Donato","C","4/9/1996","Boston, MA","04",2
+"Cole Guttman","C","4/6/1999","Northridge, CA","04",2
+"Tyler Johnson","C","7/29/1990","Spokane, WA","07",3
+"Philipp Kurashev","C","10/12/1999","Munsingen, Switzerland","10",4
+"MacKenzie Entwistle","RW","7/14/1999","Georgetown, ON","07",3
+"Nick Foligno","LW","10/31/1987","Buffalo, NY","10",4
+"Taylor Hall","LW","11/14/1991","Calgary, AB","11",4
+"Reese Johnson","RW","7/10/1998","Saskatoon, SK","07",3
+"Boris Katchouk","LW","6/18/1998","Waterloo, ON","06",2
+"Corey Perry","RW","5/16/1985","Peterborough, ON","05",2
+"Taylor Raddysh","RW","2/18/1998","Caledon, ON","02",1
+"Lukas Reichel","LW","5/17/2002","Nuremberg, Germany","05",2
+"Buddy Robinson","RW","9/30/1991","Bellmawr, NJ","09",3
+"Seth Jones","D","10/3/1994","Arlington, TX","10",4
+"Wyatt Kaiser","D","7/31/2002","Andover, MN","07",3
+"Kevin Korchinski","D","6/21/2004","Saskatoon, CA","06",2
+"Connor Murphy","D","3/26/1993","Dublin, OH","03",1
+"Isaak Phillips","D","9/28/2001","Barrie, ON","09",3
+"Jarred Tinordi","D","2/20/1992","Millersville, MD","02",1
+"Alex Vlasic","D","6/5/2001","Wilmette, IL","06",2
+"Nikita Zaitsev","D","10/29/1991","Moscow, USSR","10",4
+"Petr Mrazek","G","2/14/1992","Ostrava, Czechoslovakia","02",1
+"Arvid Soderblom","G","8/19/1999","Goteborg, Sweden","08",3
+"Andrew Cogliano","C","6/14/1987","Toronto, ON","06",2
+"Ross Colton","C","9/11/1996","Robbinsville, NJ","09",3
+"Ryan Johansen","C","7/31/1992","Vancouver, BC","07",3
+"Nathan MacKinnon","C","9/1/1995","Halifax, NS","09",3
+"Jonathan Drouin","LW","3/28/1995","Ste-Agathe, PQ","03",1
+"Artturi Lehkonen","LW","7/4/1995","Piikkio, Finland","07",3
+"Valeri Nichushkin","RW","3/4/1995","Chelyabinsk, Russia","03",1
+"Logan O'Connor","RW","8/14/1996","Missouri City, TX","08",3
+"Frederik Olofsson","LW","5/27/1996","Helsingborg, SE","05",2
+"Sampo Ranta","LW","5/31/2000","Naantali, Finland","05",2
+"Mikko Rantanen","RW","10/29/1996","Nousiainen, Finland","10",4
+"Tomas Tatar","LW","12/1/1990","Ilava, Czechoslovakia","12",4
+"Riley Tufte","LW","4/10/1998","Coon Rapids, MN","04",2
+"Miles Wood","LW","9/13/1995","Buffalo, NY","09",3
+"Jack Ahcan","D","5/18/1997","Savage, MN","05",2
+"Bowen Byram","D","6/13/2001","Cranbrook, BC","06",2
+"Samuel Girard","D","5/12/1998","Roberval, PQ","05",2
+"Jack Johnson","D","1/13/1987","Indianapolis, IN","01",1
+"Kurtis MacDermid","D","3/25/1994","Sauble Beach, ON","03",1
+"Cale Makar","D","10/30/1998","Calgary, AB","10",4
+"Josh Manson","D","10/7/1991","Hinsdale, IL","10",4
+"Corey Schueneman","D","9/2/1995","Milford, MI","09",3
+"Devon Toews","D","2/21/1994","Abbotsford, BC","02",1
+"Justus Annunen","G","3/11/2000","Kempele, Finland","03",1
+"Alexandar Georgiev","G","2/10/1996","Ruse, Bulgaria","02",1
+"Ivan Prosvetov","G","3/5/1999","Moscow, Russia","03",1
+"Emil Bemstrom","C","6/1/1999","Nykoping, Sweden","06",2
+"Josh Dunne","C","12/8/1998","O'Fallon, MO","12",4
+"Adam Fantilli","C","10/12/2004","Nobleton, CA","10",4
+"Boone Jenner","C","6/15/1993","Dorchester, ON","06",2
+"Sean Kuraly","C","1/20/1993","Dublin, OH","01",1
+"Mathieu Olivier","C","2/11/1997","Levis, PQ","02",1
+"Jack Roslovic","C","1/29/1997","Columbus, OH","01",1
+"Cole Sillinger","C","5/16/2003","Columbus, OH","05",2
+"Alexandre Texier","C","9/13/1999","Saint-Martin-d'Heres, France","09",3
+"Yegor Chinakhov","RW","2/1/2001","Omsk, Russia","02",1
+"Justin Danforth","RW","3/15/1993","Oshawa, ON","03",1
+"Trey Fix-Wolansky","RW","5/26/1999","Edmonton, AB","05",2
+"Johnny Gaudreau","LW","8/13/1993","Salem, NJ","08",3
+"Joona Luoto","LW","9/26/1997","Tampere, Finland","09",3
+"Kirill Marchenko","RW","7/21/2000","Barnaul, Russia","07",3
+"Mikael Pyyhtia","LW","12/17/2001","Turku, Finland","12",4
+"Dmitri Voronkov","LW","9/10/2000","—","09",3
+"Jake Bean","D","6/9/1998","Calgary, AB","06",2
+"Marcus Bjork","D","11/24/1997","Umea, SE","11",4
+"Adam Boqvist","D","8/15/2000","Falun, Sweden","08",3
+"Jake Christiansen","D","9/12/1999","West Vancouver, BC","09",3
+"Erik Gudbranson","D","1/7/1992","Ottawa, ON","01",1
+"David Jiricek","D","11/28/2003","Klatovy, CZ","11",4
+"Andrew Peeke","D","3/17/1998","Parkland, FL","03",1
+"Ivan Provorov","D","1/13/1997","Yaroslavl, Russia","01",1
+"Damon Severson","D","8/7/1994","Melville, SK","08",3
+"Zach Werenski","D","7/19/1997","Grosse Pointe, MI","07",3
+"Jet Greaves","G","3/30/2001","Cambridge, ON","03",1
+"Michael Hutchinson","G","3/2/1990","Barrie, ON","03",1
+"Spencer Martin","G","6/8/1995","Oakville, ON","06",2
+"Elvis Merzlikins","G","4/13/1994","Riga, Latvia","04",2
+"Mavrik Bourque","C","1/8/2002","Plessiville, QC, Canada","01",1
+"Ty Dellandrea","C","7/21/2000","Toronto, ON","07",3
+"Matt Duchene","C","1/16/1991","Haliburton, ON","01",1
+"Radek Faksa","C","1/9/1994","Vitkov, Czech Republic","01",1
+"Wyatt Johnston","C","5/14/2003","Toronto, ON","05",2
+"Joe Pavelski","C","7/11/1984","Plover, WI","07",3
+"Tyler Seguin","C","1/31/1992","Brampton, ON","01",1
+"Craig Smith","C","9/5/1989","Madison, WI","09",3
+"Sam Steel","C","2/3/1998","Ardrossan, AB","02",1
+"Jamie Benn","LW","7/18/1989","Victoria, BC","07",3
+"Evgenii Dadonov","RW","3/12/1989","Chelyabinsk, USSR","03",1
+"Roope Hintz","LW","11/17/1996","Tampere, Finland","11",4
+"Mason Marchment","LW","6/18/1995","Uxbridge, ON","06",2
+"Jason Robertson","LW","7/22/1999","Arcadia, CA","07",3
+"Gavin Bayreuther","D","5/12/1994","Canaan, NH","05",2
+"Jani Hakanpaa","D","3/31/1992","Kirkkonummi, Finland","03",1
+"Joel Hanley","D","6/8/1991","Keswick, ON","06",2
+"Thomas Harley","D","8/19/2001","Syracuse, NY","08",3
+"Miro Heiskanen","D","7/18/1999","Espoo, Finland","07",3
+"Esa Lindell","D","5/23/1994","Vantaa, Finland","05",2
+"Nils Lundkvist","D","7/27/2000","Pitea, Sweden","07",3
+"Derrick Pouliot","D","1/16/1994","Estevan, SK","01",1
+"Ryan Suter","D","1/21/1985","Madison, WI","01",1
+"Jake Oettinger","G","12/18/1998","Lakeville, MN","12",4
+"Scott Wedgewood","G","8/14/1992","Etobicoke, ON","08",3
+"Andrew Copp","C","7/8/1994","Ann Arbor, MI","07",3
+"Austin Czarnik","C","12/12/1992","Detroit, MI","12",4
+"Robby Fabbri","C","1/22/1996","Mississauga, ON","01",1
+"Klim Kostin","C","5/5/1999","Penza, Russia","05",2
+"Dylan Larkin","C","7/30/1996","Waterford, MI","07",3
+"Danny O'Regan","C","1/30/1994","Berlin, Germany","01",1
+"Michael Rasmussen","C","4/17/1999","Vancouver, BC","04",2
+"Nolan Stevens","C","7/22/1996","Brantford, ON","07",3
+"Joseph Veleno","C","1/13/2000","Montreal, PQ","01",1
+"Zach Aston-Reese","RW","8/10/1994","Staten Island, NY","08",3
+"Jonatan Berggren","RW","7/16/2000","Uppsala, Sweden","07",3
+"J.T. Compher","LW","4/8/1995","Northbrook, IL","04",2
+"Alex DeBrincat","RW","12/18/1997","Farmington Hills, MI","12",4
+"Christian Fischer","RW","4/15/1997","Chicago, IL","04",2
+"Tim Gettinger","LW","4/14/1998","Cleveland, OH","04",2
+"David Perron","LW","5/28/1988","Sherbrooke, PQ","05",2
+"Lucas Raymond","LW","3/28/2002","Goteborg, Sweden","03",1
+"Daniel Sprong","RW","3/17/1997","Amsterdam, Netherlands","03",1
+"Ben Chiarot","D","5/9/1991","Hamilton, ON","05",2
+"Shayne Gostisbehere","D","4/20/1993","Pembroke Pines, FL","04",2
+"Justin Holl","D","1/30/1992","Tonka Bay, MN","01",1
+"Olli Maatta","D","8/22/1994","Jyvaskyla, Finland","08",3
+"Jared McIsaac","D","3/27/2000","Truro, NS","03",1
+"Jeff Petry","D","12/9/1987","Ann Arbor, MI","12",4
+"Brogan Rafferty","D","5/28/1995","Dundee, IL","05",2
+"Moritz Seider","D","4/6/2001","Zell, Germany","04",2
+"Jake Walman","D","2/20/1996","Toronto, ON","02",1
+"Ville Husso","G","2/6/1995","Helsinki, Finland","02",1
+"Alex Lyon","G","12/9/1992","Baudette, MN","12",4
+"James Reimer","G","3/15/1988","Morweena, MB","03",1
+"Connor Brown","C","1/14/1994","Toronto, ON","01",1
+"Leon Draisaitl","C","10/27/1995","Cologne, Germany","10",4
+"Sam Gagner","C","8/10/1989","London, ON","08",3
+"Dylan Holloway","C","9/23/2001","Calgary, AB","09",3
+"Zach Hyman","C","6/9/1992","Toronto, ON","06",2
+"Mattias Janmark","C","12/8/1992","Danderyd, Sweden","12",4
+"Raphael Lavoie","C","9/25/2000","Montreal, PQ","09",3
+"Connor McDavid","C","1/13/1997","Richmond Hill, ON","01",1
+"Ryan McLeod","C","9/21/1999","Mississauga, ON","09",3
+"Ryan Nugent-Hopkins","C","4/12/1993","Burnaby, BC","04",2
+"Lane Pederson","C","8/4/1997","Saskatoon, SK","08",3
+"Derek Ryan","C","12/29/1986","Spokane, WA","12",4
+"Adam Erne","LW","4/20/1995","New Haven, CT","04",2
+"Warren Foegele","LW","4/1/1996","Markham, ON","04",2
+"James Hamblin","LW","4/27/1999","Edmonton, AB","04",2
+"Evander Kane","LW","8/2/1991","Vancouver, BC","08",3
+"Evan Bouchard","D","10/20/1999","Oakville, ON","10",4
+"Cody Ceci","D","12/21/1993","Ottawa, ON","12",4
+"Jason Demers","D","6/9/1988","Dorval, PQ","06",2
+"Vincent Desharnais","D","5/29/1996","Laval, PQ","05",2
+"Mattias Ekholm","D","5/24/1990","Borlange, Sweden","05",2
+"Brett Kulak","D","1/6/1994","Edmonton, AB","01",1
+"Darnell Nurse","D","2/4/1995","Hamilton, ON","02",1
+"Calvin Pickard","G","4/15/1992","Moncton, NB","04",2
+"Stuart Skinner","G","11/1/1998","Edmonton, AB","11",4
+"Rasmus Asplund","C","12/3/1997","Filipstad, Sweden","12",4
+"Aleksander Barkov","C","9/2/1995","Tampere, Finland","09",3
+"Nick Cousins","C","7/20/1993","Belleville, ON","07",3
+"Steven Lorentz","C","4/13/1996","Kitchener, ON","04",2
+"Anton Lundell","C","10/3/2001","Espoo, Finland","10",4
+"Eetu Luostarinen","C","9/2/1998","Siilinjarvi, Finland","09",3
+"Sam Reinhart","C","11/6/1995","West Vancouver, BC","11",4
+"Evan Rodrigues","C","7/28/1993","Toronto, ON","07",3
+"Kevin Stenlund","C","9/20/1996","Stockholm, Sweden","09",3
+"Carter Verhaeghe","C","8/14/1995","Toronto, ON","08",3
+"Will Lockwood","RW","6/20/1998","Royal Oak, MI","06",2
+"Ryan Lomberg","LW","12/9/1994","Richmond Hill, ON","12",4
+"Mackie Samoskevich","RW","11/15/2002","Newtown, CT","11",4
+"Matthew Tkachuk","LW","12/11/1997","Scottsdale, AZ","12",4
+"Uvis Balinskis","D","8/1/1996","Ventspils, Latvia","08",3
+"Lucas Carlsson","D","7/5/1997","Gavle, Sweden","07",3
+"Oliver Ekman-Larsson","D","7/17/1991","Karlskrona, Sweden","07",3
+"Gustav Forsling","D","6/12/1996","Linkoping, Sweden","06",2
+"Matt Kiersted","D","4/14/1998","Elk River, MN","04",2
+"Dmitry Kulikov","D","10/29/1990","Lipetsk, USSR","10",4
+"Josh Mahura","D","5/5/1998","St. Albert, AB","05",2
+"Niko Mikkola","D","4/27/1996","Kiiminki, Finland","04",2
+"Mike Reilly","D","7/13/1993","Chicago, IL","07",3
+"Sergei Bobrovsky","G","9/20/1988","Novokuznetsk, USSR","09",3
+"Spencer Knight","G","4/19/2001","Darien, CT","04",2
+"Anthony Stolarz","G","1/20/1994","Edison, NJ","01",1
+"Jaret Anderson-Dolan","C","9/12/1999","Calgary, AB","09",3
+"Quinton Byfield","C","8/19/2002","Newmarket, ON","08",3
+"Phillip Danault","C","2/24/1993","Victoriaville, PQ","02",1
+"Pierre-Luc Dubois","C","6/24/1998","Ste-Agathe-des-Monts, PQ","06",2
+"Anze Kopitar","C","8/24/1987","Jesenice, Yugoslavia","08",3
+"Trevor Lewis","C","1/8/1987","Salt Lake City, UT","01",1
+"Blake Lizotte","C","12/13/1997","Lindstrom, MN","12",4
+"Francesco Pinelli","C","4/11/2003","Hamilton, ON","04",2
+"Kevin Fiala","LW","7/22/1996","St. Gallen, Switzerland","07",3
+"Carl Grundstrom","RW","12/1/1997","Umea, Sweden","12",4
+"Arthur Kaliyev","RW","6/26/2001","Tashkent, Uzbekistan","06",2
+"Adrian Kempe","RW","9/13/1996","Kramfors, Sweden","09",3
+"Alex Laferriere","RW","10/28/2001","Chatham, NJ","10",4
+"Mikhail Maltsev","LW","3/12/1998","St. Petersburg, Russia","03",1
+"Trevor Moore","LW","3/31/1995","Thousand Oaks, CA","03",1
+"Mikey Anderson","D","5/25/1999","Fridley, MN","05",2
+"Tobias Bjornfot","D","4/6/2001","Upplands Vasby, Sweden","04",2
+"Drew Doughty","D","12/8/1989","London, ON","12",4
+"Andreas Englund","D","1/21/1996","Stockholm, Sweden","01",1
+"Vladislav Gavrikov","D","11/21/1995","Yaroslavl, Russia","11",4
+"Tobie Pacquette-Bisson","D","2/1/1997","Rosemere, CA","02",1
+"Matt Roy","D","3/1/1995","Detroit, MI","03",1
+"Jordan Spence","D","2/24/2001","Sydney, New South Wales","02",1
+"J-F Berube","G","7/13/1991","Repentigny, PQ","07",3
+"Pheonix Copley","G","1/18/1992","North Pole, AK","01",1
+"David Rittich","G","8/19/1992","Jihlava, Czechoslovakia","08",3
+"Cam Talbot","G","7/5/1987","Caledonia, ON","07",3
+"Connor Dewar","C","6/26/1999","Gilbert Plains, MB","06",2
+"Joel Eriksson Ek","C","1/29/1997","Karlstad, Sweden","01",1
+"Frederick Gaudreau","C","5/1/1993","Bromont, PQ","05",2
+"Damien Giroux","C","3/3/2000","Sudbury, ON","03",1
+"Vinni Lettieri","C","2/6/1995","Excelsior, MN","02",1
+"Jake Lucchini","C","5/10/1995","Trail, BC","05",2
+"Nic Petan","C","3/22/1995","Delta, BC","03",1
+"Marco Rossi","C","9/23/2001","Feldkirch, Austria","09",3
+"Samuel Walker","C","6/7/1999","Edina, MN","06",2
+"Matt Boldy","LW","4/5/2001","Millis, MA","04",2
+"Brandon Duhaime","RW","5/22/1997","Coral Springs, FL","05",2
+"Marcus Foligno","LW","8/10/1991","Buffalo, NY","08",3
+"Ryan Hartman","RW","9/20/1994","Hilton Head Island, SC","09",3
+"Marcus Johansson","LW","10/6/1990","Landskrona, Sweden","10",4
+"Kirill Kaprizov","LW","4/26/1997","Novokuznetsk, Russia","04",2
+"Pat Maroon","LW","4/23/1988","St. Louis, MO","04",2
+"Adam Raska","RW","9/25/2001","Frydek-Mistek, Czech Republic","09",3
+"Mats Zuccarello","RW","9/1/1987","Oslo, Norway","09",3
+"Zach Bogosian","D","7/15/1990","Massena, NY","07",3
+"Jonas Brodin","D","7/12/1993","Karlstad, Sweden","07",3
+"Brock Faber","D","8/22/2002","Maple Grove, MN","08",3
+"Dakota Mermis","D","1/5/1994","Alton, IL","01",1
+"Jon Merrill","D","2/3/1992","Oklahoma City, OK","02",1
+"Jacob Middleton","D","1/2/1996","Wainwright, AB","01",1
+"Jared Spurgeon","D","11/29/1989","Edmonton, AB","11",4
+"Marc-Andre Fleury","G","11/28/1984","Sorel, PQ","11",4
+"Filip Gustavsson","G","6/7/1998","Skelleftea, Sweden","06",2
+"Christian Dvorak","C","2/2/1996","Palos, IL","02",1
+"Jake Evans","C","6/2/1996","Toronto, ON","06",2
+"Sean Farrell","C","11/2/2001","Hopkinton, MA","11",4
+"Philippe Maillet","C","11/7/1992","Lachenaie, PQ","11",4
+"Sean Monahan","C","10/12/1994","Brampton, ON","10",4
+"Alex Newhook","C","1/28/2001","St. John's, NL","01",1
+"Nick Suzuki","C","8/10/1999","London, ON","08",3
+"Josh Anderson","RW","5/7/1994","Burlington, ON","05",2
+"Joel Armia","RW","5/31/1993","Pori, Finland","05",2
+"Cole Caufield","RW","1/2/2001","Stevens Point, WI","01",1
+"Brendan Gallagher","RW","5/6/1992","Edmonton, AB","05",2
+"Rafael Harvey-Pinard","LW","1/6/1999","Jonquiere, PQ","01",1
+"Tanner Pearson","LW","8/10/1992","Kitchener, ON","08",3
+"Michael Pezzetta","LW","3/13/1998","Toronto, ON","03",1
+"Juraj Slafkovsky","LW","3/30/2004","Kosice, SK","03",1
+"Joel Teasdale","LW","3/11/1999","Repentigny, PQ","03",1
+"Jesse Ylonen","RW","10/3/1999","Scottsdale, AZ","10",4
+"Justin Barron","D","11/15/2001","Halifax, NS","11",4
+"Kaiden Guhle","D","1/18/2002","Sherwood Park, AB","01",1
+"Jordan Harris","D","7/7/2000","Haverhill, MA","07",3
+"Brady Keeper","D","6/5/1996","Cross Lake, MB","06",2
+"Johnathan Kovacevic","D","7/12/1997","Niagara Falls, ON","07",3
+"Gustav Lindstrom","D","10/20/1998","Ostervala, Sweden","10",4
+"Mike Matheson","D","2/27/1994","Pointe-Claire, PQ","02",1
+"Arber Xhekaj","D","1/30/2001","Hamilton, ON","01",1
+"Jake Allen","G","8/7/1990","Fredericton, NB","08",3
+"Sam Montembeault","G","10/30/1996","Becancour, PQ","10",4
+"Cayden Primeau","G","8/11/1999","Voorhees, NJ","08",3
+"Anthony Angello","C","3/6/1996","Albany, NY","03",1
+"Liam Foudy","C","2/4/2000","Scarborough, ON","02",1
+"Mark Jankowski","C","9/13/1994","Hamilton, ON","09",3
+"Tommy Novak","C","4/28/1997","St. Paul, MN","04",2
+"Ryan O'Reilly","C","2/7/1991","Clinton, ON","02",1
+"Juuso Parssinen","C","2/1/2001","Hameenlinna, Finland","02",1
+"Colton Sissons","C","11/5/1993","North Vancouver, BC","11",4
+"Philip Tomasino","C","7/28/2001","Mississauga, ON","07",3
+"Yakov Trenin","C","1/13/1997","Chelyabinsk, Russia","01",1
+"Luke Evangelista","RW","2/21/2002","Oakville, ON","02",1
+"Samuel Fagemo","LW","3/14/2000","Goteborg, Sweden","03",1
+"Filip Forsberg","LW","8/13/1994","Ostervala, Sweden","08",3
+"Denis Gurianov","RW","6/7/1997","Togliatti, Russia","06",2
+"Michael McCarron","RW","3/7/1995","Grosse Pointe, MI","03",1
+"Gustav Nyquist","LW","9/1/1989","Halmstad, Sweden","09",3
+"Kiefer Sherwood","RW","3/31/1995","Columbus, OH","03",1
+"Cole Smith","LW","10/28/1995","Brainerd, MN","10",4
+"Tyson Barrie","D","7/26/1991","Victoria, BC","07",3
+"Alexandre Carrier","D","10/8/1996","Quebec City, PQ","10",4
+"Marc Del Gaizo","D","10/11/1999","Basking Ridge, NJ","10",4
+"Dante Fabbro","D","6/20/1998","Coquitlam, BC","06",2
+"Roman Josi","D","6/1/1990","Bern, Switzerland","06",2
+"Jeremy Lauzon","D","4/28/1997","Val-d'Or, PQ","04",2
+"Ryan McDonagh","D","6/13/1989","St. Paul, MN","06",2
+"Roland McKeown","D","1/20/1996","Listowel, ON","01",1
+"Spencer Stastney","D","1/4/2000","Woodbridge, IL","01",1
+"Troy Grosenick","G","8/27/1989","Brookfield, WI","08",3
+"Kevin Lankinen","G","4/28/1995","Helsinki, Finland","04",2
+"Juuse Saros","G","4/19/1995","Forssa, Finland","04",2
+"Kyle Criscuolo","C","5/5/1992","Southampton, NJ","05",2
+"Justin Dowling","C","10/1/1990","Calgary, AB","10",4
+"Nico Hischier","C","1/4/1999","Brig, Switzerland","01",1
+"Jack Hughes","C","5/14/2001","Orlando, FL","05",2
+"Michael McLeod","C","2/3/1998","Mississauga, ON","02",1
+"Dawson Mercer","C","10/27/2001","Carbonear, NL","10",4
+"Chris Tierney","C","7/1/1994","Keswick, ON","07",3
+"Maxwell Willman","C","2/13/1995","Burnstable, MA","02",1
+"Nathan Bastian","RW","12/6/1997","Kitchener, ON","12",4
+"Jesper Bratt","LW","7/30/1998","Stockholm, Sweden","07",3
+"Erik Haula","LW","3/23/1991","Pori, Finland","03",1
+"Alexander Holtz","RW","1/23/2002","Saltsjo-Boo, Sweden","01",1
+"Curtis Lazar","RW","2/2/1995","Salmon Arm, BC","02",1
+"Timo Meier","RW","10/8/1996","Herisau, Switzerland","10",4
+"Tomas Nosek","LW","9/1/1992","Pardubice, Czechoslovakia","09",3
+"Ondrej Palat","LW","3/28/1991","Frydek-Mistek, Czechoslovakia","03",1
+"Tyler Toffoli","RW","4/24/1992","Scarborough, ON","04",2
+"Kevin Bahl","D","6/27/2000","New Westminster, BC","06",2
+"Dougie Hamilton","D","6/17/1993","Toronto, ON","06",2
+"Luke Hughes","D","9/9/2003","Manchester, NH","09",3
+"John Marino","D","5/21/1997","North Easton, MA","05",2
+"Jonas Siegenthaler","D","5/6/1997","Zurich, Switzerland","05",2
+"Brendan Smith","D","2/8/1989","Mimico, ON","02",1
+"Erik Kallgren","G","10/14/1996","Stockholm, Sweden","10",4
+"Akira Schmid","G","5/12/2000","Bern, Switzerland","05",2
+"Vitek Vanecek","G","1/9/1996","Havlickuv Brod, Czech Republic","01",1
+"Mathew Barzal","C","5/26/1997","Coquitlam, BC","05",2
+"Casey Cizikas","C","2/27/1991","Toronto, ON","02",1
+"Bo Horvat","C","4/5/1995","London, ON","04",2
+"Karson Kuhlman","C","9/26/1995","Esko, MN","09",3
+"Brock Nelson","C","10/15/1991","Warroad, MN","10",4
+"Jean-Gabriel Pageau","C","11/11/1992","Ottawa, ON","11",4
+"Kyle Palmieri","C","2/1/1991","Smithtown, NY","02",1
+"Brian Pinho","C","5/11/1995","Beverly, MA","05",2
+"Cal Clutterbuck","RW","11/18/1987","Welland, ON","11",4
+"Pierre Engvall","LW","5/31/1996","Ljungby, Sweden","05",2
+"Hudson Fasching","RW","7/28/1995","Milwaukee, WI","07",3
+"Julien Gauthier","RW","10/15/1997","Pointe-aux-Trembles, PQ","10",4
+"Simon Holmstrom","RW","5/24/2001","Tranas, Sweden","05",2
+"Anders Lee","LW","7/3/1990","Edina, MN","07",3
+"Matt Martin","LW","5/8/1989","Windsor, ON","05",2
+"Oliver Wahlstrom","RW","6/13/2000","Quincy, MA","06",2
+"Sebastian Aho","D","2/17/1996","Umea, Sweden","02",1
+"Samuel Bolduc","D","12/9/2000","Laval, PQ","12",4
+"Noah Dobson","D","1/7/2000","Summerside, PE","01",1
+"Scott Mayfield","D","10/14/1992","St. Louis, MO","10",4
+"Adam Pelech","D","8/16/1994","Toronto, ON","08",3
+"Ryan Pulock","D","10/6/1994","Dauphin, MB","10",4
+"Alexander Romanov","D","1/6/2000","Moscow, Russia","01",1
+"Ken Appleby","G","4/10/1995","North Bay, ON","04",2
+"Ilya Sorokin","G","8/4/1995","Mezhdurechensk, Russia","08",3
+"Semyon Varlamov","G","4/27/1988","Samara, USSR","04",2
+"Nick Bonino","C","4/20/1988","Hartford, CT","04",2
+"Jonny Brodzinski","C","6/19/1993","Ham Lake, MN","06",2
+"Barclay Goodrow","C","2/26/1993","Toronto, ON","02",1
+"Riley Nash","C","5/9/1989","Consort, AB","05",2
+"Tyler Pitlick","C","11/1/1991","Minneapolis, MN","11",4
+"Vincent Trocheck","C","7/11/1993","Pittsburgh, PA","07",3
+"Mika Zibanejad","C","4/18/1993","Huddinge, Sweden","04",2
+"Alex Belzile","RW","8/31/1991","Riviere-du-Loup, PQ","08",3
+"Will Cuylle","LW","2/5/2002","Toronto, ON","02",1
+"Kaapo Kakko","RW","2/13/2001","Turku, Finland","02",1
+"Chris Kreider","LW","4/30/1991","Boxford, MA","04",2
+"Alexis Lafreniere","LW","10/11/2001","St-Eustache, PQ","10",4
+"Artemi Panarin","LW","10/30/1991","Korkino, USSR","10",4
+"Jimmy Vesey","LW","5/26/1993","Boston, MA","05",2
+"Blake Wheeler","RW","8/31/1986","Plymouth, MN","08",3
+"Nikolas Brouillard","D","2/7/1995","St. Hilaire, PQ","02",1
+"Erik Gustafsson","D","3/14/1992","Nynashamn, Sweden","03",1
+"Mac Hollowell","D","9/26/1998","Niagara Falls, ON","09",3
+"Zac Jones","D","10/18/2000","Glen Allen, VA","10",4
+"Ryan Lindgren","D","2/11/1998","Burnsville, MN","02",1
+"Connor Mackey","D","9/12/1996","Tower Lakes, IL","09",3
+"K'Andre Miller","D","1/21/2000","St. Paul, MN","01",1
+"Braden Schneider","D","9/20/2001","Prince Albert, SK, Canada","09",3
+"Jacob Trouba","D","2/26/1994","Rochester, MI","02",1
+"Jonathan Quick","G","1/21/1986","Milford, CT","01",1
+"Igor Shesterkin","G","12/30/1995","Moscow, Russia","12",4
+"Rourke Chartier","C","4/3/1996","Saskatoon, SK","04",2
+"Josh Currie","C","10/29/1992","Charlottetown, PE","10",4
+"Matthew Highmore","C","2/27/1996","Halifax, NS","02",1
+"Zack MacEwen","C","7/8/1996","Charlottetown, PE","07",3
+"Josh Norris","C","5/5/1999","Oxford, MI","05",2
+"Garrett Pilon","C","4/13/1998","Kindersley, SK","04",2
+"Josh Bailey","RW","10/2/1989","Bowmanville, ON","10",4
+"Drake Batherson","RW","4/27/1998","Fort Wayne, IN","04",2
+"Claude Giroux","LW","1/12/1988","Hearst, ON","01",1
+"Bokondji Imama","LW","8/3/1996","Montreal, PQ","08",3
+"Roby Jarventie","LW","8/8/2002","Tampere, Finland","08",3
+"Mathieu Joseph","RW","2/9/1997","Laval, PQ","02",1
+"Parker Kelly","LW","5/14/1999","Camrose, AB","05",2
+"Dominik Kubalik","LW","8/21/1995","Plzen, Czech Republic","08",3
+"Egor Sokolov","LW","6/7/2000","Yekaterinburg, Russia","06",2
+"Tim Stutzle","LW","1/15/2002","Viersen, Germany","01",1
+"Vladimir Tarasenko","RW","12/13/1991","Yaroslavl, Russia","12",4
+"Brady Tkachuk","LW","9/16/1999","Scottsdale, AZ","09",3
+"Jacob Bernard-Docker","D","6/30/2000","Canmore, AB, Canada","06",2
+"Erik Brannstrom","D","9/2/1999","Eksjo, Sweden","09",3
+"Jakob Chychrun","D","3/31/1998","Boca Raton, FL","03",1
+"Maxence Guenette","D","4/28/2001","Sainte-Foy, PQ","04",2
+"Travis Hamonic","D","8/16/1990","St. Malo, MB","08",3
+"Dillon Heatherington","D","5/9/1995","Calgary, AB","05",2
+"Tyler Kleven","D","1/10/2002","Fargo, ND","01",1
+"Jacob Larsson","D","4/29/1997","Ljungby, Sweden","04",2
+"Nikolas Matinpalo","D","10/5/1998","—","10",4
+"Jake Sanderson","D","7/8/2002","Whitefish, MT","07",3
+"Donovan Sebrango","D","1/12/2002","Kingston, ON","01",1
+"Artem Zub","D","10/3/1995","Khabarovsk, Russia","10",4
+"Anton Forsberg","G","11/27/1992","Harnosand, Sweden","11",4
+"Joonas Korpisalo","G","4/28/1994","Pori, Finland","04",2
+"Sean Couturier","C","12/7/1992","Phoenix, AZ","12",4
+"Morgan Frost","C","5/14/1999","Aurora, ON","05",2
+"Rhett Gardner","C","2/28/1996","Moose Jaw, SK","02",1
+"Travis Konecny","C","3/11/1997","London, ON","03",1
+"Scott Laughton","C","5/30/1994","Oakville, ON","05",2
+"Ryan Poehling","C","1/3/1999","Lakeville, MN","01",1
+"Cam Atkinson","RW","6/5/1989","Riverside, CT","06",2
+"Kieffer Bellows","LW","6/10/1998","Edina, MN","06",2
+"Bobby Brink","RW","7/8/2001","Minnetonka, MN","07",3
+"Noah  Cates","LW","2/5/1999","Stillwater, Minnesota","02",1
+"Nicolas Deslauriers","LW","2/22/1991","LaSalle, PQ","02",1
+"Joel Farabee","LW","2/25/2000","Syracuse, NY","02",1
+"Tyson Foerster","RW","1/18/2002","Alliston, ON","01",1
+"Garnet Hathaway","RW","11/23/1991","Kennebunkport, ME","11",4
+"Owen Tippett","RW","2/16/1999","Peterborough, ON","02",1
+"Louie Belpedio","D","5/14/1996","Skokie, IL","05",2
+"Victor Mete","D","6/7/1998","Woodbridge, ON","06",2
+"Travis Sanheim","D","3/29/1996","Elkhorn, MB","03",1
+"Nick Seeler","D","6/3/1993","Eden Prairie, MN","06",2
+"Sean Walker","D","11/13/1994","Keswick, ON","11",4
+"Cam York","D","1/5/2001","Anaheim Hills, CA","01",1
+"Egor Zamula","D","3/30/2000","Chelyabinsk, Russia","03",1
+"Samuel Ersson","G","10/20/1999","Falun, Sweden","10",4
+"Carter Hart","G","8/13/1998","Sherwood Park, AB","08",3
+"Calvin Petersen","G","10/19/1994","Waterloo, IA","10",4
+"Noel Acciari","C","12/1/1991","Johnston, RI","12",4
+"Jeff Carter","C","1/1/1985","London, ON","01",1
+"Sidney Crosby","C","8/7/1987","Cole Harbour, NS","08",3
+"Lars Eller","C","5/8/1989","Rodovre, Denmark","05",2
+"Jake Guentzel","C","10/6/1994","Omaha, NE","10",4
+"Jansen Harkins","C","5/23/1997","Cleveland, OH","05",2
+"Vinnie Hinostroza","C","4/3/1994","Chicago, IL","04",2
+"Evgeni Malkin","C","7/31/1986","Magnitogorsk, USSR","07",3
+"Rickard Rakell","C","5/5/1993","Sundbyberg, Sweden","05",2
+"Joona Koppanen","LW","2/25/1998","Tampere, Finland","02",1
+"Matt Nieto","LW","11/5/1992","Long Beach, CA","11",4
+"Alex Nylander","LW","3/2/1998","Calgary, AB","03",1
+"Drew O'Connor","LW","6/9/1998","Chatham, NJ","06",2
+"Bryan Rust","RW","5/11/1992","Pontiac, MI","05",2
+"Reilly Smith","RW","4/1/1991","Mimico, ON","04",2
+"Radim Zohorna","LW","4/29/1996","Havlickuv Brod, Czech Republic","04",2
+"Ryan Graves","D","5/21/1995","Yarmouth, NS","05",2
+"Pierre-Olivier Joseph","D","7/1/1999","Laval, PQ","07",3
+"Erik Karlsson","D","5/31/1990","Landsbro, Sweden","05",2
+"Kris Letang","D","4/24/1987","Montreal, PQ","04",2
+"Marcus Pettersson","D","5/8/1996","Skelleftea, Sweden","05",2
+"Jack Rathbone","D","5/20/1999","Boston, MA","05",2
+"Chad Ruhwedel","D","5/7/1990","San Diego, CA","05",2
+"Ryan Shea","D","2/11/1997","Milton, MA","02",1
+"Joel Blomqvist","G","1/10/2002","Uusikaarlepyy, Finland","01",1
+"Magnus Hellberg","G","4/4/1991","Uppsala, Sweden","04",2
+"Tristan Jarry","G","4/29/1995","Surrey, BC","04",2
+"Mikael Granlund","C","2/26/1992","Oulu, Finland","02",1
+"Tomas Hertl","C","11/12/1993","Prague, Czech Republic","11",4
+"Mike Hoffman","C","11/24/1989","Kitchener, ON","11",4
+"Luke Kunin","C","12/4/1997","Chesterfield, MO","12",4
+"Nico Sturm","C","5/3/1995","Augsburg, Germany","05",2
+"Nathan Todd","C","12/2/1995","Kemptville, CA","12",4
+"Anthony Duclair","LW","8/26/1995","Pointe-Claire, PQ","08",3
+"William Eklund","LW","10/12/2002","Haninge, Sweden","10",4
+"Kevin Labanc","RW","12/12/1995","Brooklyn, NY","12",4
+"Oskar Lindblom","LW","8/15/1996","Gavle, Sweden","08",3
+"Scott Sabourin","RW","7/30/1992","Orleans, ON","07",3
+"Givani Smith","RW","2/27/1998","Toronto, ON","02",1
+"C.J. Suess","LW","3/17/1994","St. Paul, MN","03",1
+"Filip Zadina","RW","11/27/1999","Pardubice, Czech Republic","11",4
+"Fabian Zetterlund","LW","8/25/1999","Karlstad, Sweden","08",3
+"Calen Addison","D","4/11/2000","Brandon, MB","04",2
+"Kyle Burroughs","D","7/12/1995","Vancouver, BC","07",3
+"Ryan Carpenter","D","1/18/1991","Oviedo, FL","01",1
+"Ty Emberson","D","5/23/2000","Eau Claire, WI","05",2
+"Mario Ferraro","D","9/17/1998","Toronto, ON","09",3
+"Nikolai Knyzhov","D","3/20/1998","Kemerovo, Russia","03",1
+"Nikita Okhotiuk","D","12/4/2000","Chelyabinsk, Russia","12",4
+"Jan Rutta","D","7/29/1990","Pisek, Czechoslovakia","07",3
+"Marc-Edouard Vlasic","D","3/30/1987","Montreal, PQ","03",1
+"MacKenzie Blackwood","G","12/9/1996","Thunder Bay, ON","12",4
+"Magnus Chrona","G","8/28/2000","—","08",3
+"Kaapo Kahkonen","G","8/16/1996","Helsinki, Finland","08",3
+"Nikita Alexandrov","C","9/16/2000","Burgwedel, Germany","09",3
+"Jordan Kyrou","C","5/5/1998","Toronto, ON","05",2
+"Brayden Schenn","C","8/22/1991","Saskatoon, SK","08",3
+"Oskar Sundqvist","C","3/23/1994","Boden, Sweden","03",1
+"Robert Thomas","C","7/2/1999","Aurora, ON","07",3
+"Jakub Vrana","C","2/28/1996","Prague, Czech Republic","02",1
+"Sammy Blais","LW","6/17/1996","Montmagny, PQ","06",2
+"Pavel Buchnevich","LW","4/17/1995","Cherepovets, Russia","04",2
+"Kevin Hayes","RW","5/8/1992","Dorchester, MA","05",2
+"Kasperi Kapanen","RW","7/23/1996","Kuopio, Finland","07",3
+"Jake Neighbours","LW","3/29/2002","Airdrie, AB","03",1
+"Brandon Saad","LW","10/27/1992","Pittsburgh, PA","10",4
+"Alexei Toropchenko","RW","6/25/1999","Moscow, Russia","06",2
+"Robert Bortuzzo","D","3/18/1989","Thunder Bay, ON","03",1
+"Justin Faulk","D","3/20/1992","South St. Paul, MN","03",1
+"Torey Krug","D","4/12/1991","Livonia, MI","04",2
+"Nick Leddy","D","3/20/1991","Eden Prairie, MN","03",1
+"Colton Parayko","D","5/12/1993","St. Albert, AB","05",2
+"Scott Perunovich","D","8/18/1998","Hibbing, MN","08",3
+"Marco Scandella","D","2/23/1990","Montreal, PQ","02",1
+"Tyler Tucker","D","3/1/2000","Thunder Bay, ON","03",1
+"Jordan Binnington","G","7/11/1993","Richmond Hill, ON","07",3
+"Joel Hofer","G","7/30/2000","Winnipeg, MB","07",3
+"Alex Barre-Boulet","C","5/21/1997","Montmagny, PQ","05",2
+"Anthony Cirelli","C","7/15/1997","Etobicoke, ON","07",3
+"Mikey Eyssimont","C","9/9/1996","Littleton, CO","09",3
+"Luke Glendening","C","4/28/1989","Grand Rapids, MI","04",2
+"Waltteri Merela","C","7/6/1998","Tampere, FI","07",3
+"Tyler Motte","C","3/10/1995","St. Clair, MI","03",1
+"Nick Paul","C","3/20/1995","Mississauga, ON","03",1
+"Brayden Point","C","3/13/1996","Calgary, AB","03",1
+"Steven Stamkos","C","2/7/1990","Markham, ON","02",1
+"Brandon Hagel","LW","8/27/1998","Saskatoon, SK","08",3
+"Tanner Jeannot","LW","5/29/1997","Estevan, SK","05",2
+"Nikita Kucherov","RW","6/17/1993","Maykop, Russia","06",2
+"Austin Watson","LW","1/13/1992","Ann Arbor, MI","01",1
+"Erik Cernak","D","5/28/1997","Kosice, Slovakia","05",2
+"Haydn Fleury","D","7/8/1996","Carlyle, SK","07",3
+"Victor Hedman","D","12/18/1990","Ornskoldsvik, Sweden","12",4
+"Philippe Myers","D","1/25/1997","Moncton, NB","01",1
+"Nicklaus Perbix","D","6/15/1998","Minneapolis, MN","06",2
+"Darren Raddysh","D","2/28/1996","Caledonia, ON","02",1
+"Mikhail Sergachev","D","6/25/1998","Nizhnekamsk, Russia","06",2
+"Calvin de Haan","D","5/9/1991","Carp, ON","05",2
+"Jonas Johansson","G","9/19/1995","Gavle, Sweden","09",3
+"Matt Tomkins","G","6/19/1994","Sherwood Park, AB","06",2
+"Max Domi","C","3/2/1995","Winnipeg, MB","03",1
+"Noah Gregor","C","7/28/1998","Beaumont, AB","07",3
+"Calle Jarnkrok","C","9/25/1991","Gavle, Sweden","09",3
+"David Kampf","C","1/12/1995","Chomutov, Czech Republic","01",1
+"Auston Matthews","C","9/17/1997","San Ramon, CA","09",3
+"John Tavares","C","9/20/1990","Mississauga, ON","09",3
+"Tyler Bertuzzi","LW","2/24/1995","Sudbury, ON","02",1
+"Pontus Holmberg","RW","3/9/1999","Vasteras, Sweden","03",1
+"Matthew Knies","LW","10/17/2002","Phoenix, AZ","10",4
+"Mitchell Marner","RW","5/5/1997","Markham, ON","05",2
+"William Nylander","RW","5/1/1996","Calgary, AB","05",2
+"Ryan Reaves","RW","1/20/1987","Winnipeg, MB","01",1
+"Nicholas Robertson","LW","9/11/2001","Arcadia, CA","09",3
+"Alex Steeves","LW","12/10/1999","Bedford, NH","12",4
+"Simon Benoit","D","9/19/1998","Laval, PQ","09",3
+"T.J. Brodie","D","6/7/1990","Chatham, ON","06",2
+"Carl Dahlstrom","D","1/28/1995","Stockholm, Sweden","01",1
+"Mark Giordano","D","10/3/1983","Toronto, ON","10",4
+"John Klingberg","D","8/14/1992","Gothenburg, Sweden","08",3
+"William Lagesson","D","2/22/1996","Gothenburg, Sweden","02",1
+"Maxime Lajoie","D","11/5/1997","Quebec City, PQ","11",4
+"Jake McCabe","D","10/12/1993","Eau Claire, WI","10",4
+"Morgan Rielly","D","3/9/1994","Vancouver, BC","03",1
+"Ilya Samsonov","G","2/22/1997","Magnitogorsk, Russia","02",1
+"Joseph Woll","G","7/12/1998","Dardenne Prairie, MO","07",3
+"Teddy Blueger","C","8/15/1994","Riga, Latvia","08",3
+"Sheldon Dries","C","4/23/1994","Macomb Township, MI","04",2
+"Dakota Joshua","C","5/15/1996","Dearborn, MI","05",2
+"Sam Lafferty","C","3/6/1995","Hollidaysburg, PA","03",1
+"J.T. Miller","C","3/14/1993","East Palestine, OH","03",1
+"Elias Pettersson","C","11/12/1998","Sundsvall, Sweden","11",4
+"Jack Studnicka","C","2/18/1999","Windsor, ON","02",1
+"Pius Suter","C","5/24/1996","Zurich, Switzerland","05",2
+"Anthony Beauvillier","LW","6/8/1997","Sorel, PQ","06",2
+"Brock Boeser","RW","2/25/1997","Burnsville, MN","02",1
+"Phillip Di Giuseppe","LW","10/9/1993","Toronto, ON","10",4
+"Conor Garland","RW","3/11/1996","Scituate, MA","03",1
+"Nils Hoglander","LW","12/20/2000","Bocktrask, Sweden","12",4
+"Vitali Kravtsov","RW","12/23/1999","Vladivostok, Russia","12",4
+"Andrei Kuzmenko","LW","2/4/1996","Yakutsk, Russia","02",1
+"Ilya Mikheyev","RW","10/10/1994","Omsk, Russia","10",4
+"Ian Cole","D","2/21/1989","Ann Arbor, MI","02",1
+"Mark Friedman","D","12/25/1995","Toronto, ON","12",4
+"Filip Hronek","D","11/2/1997","Hradec Kralove, Czech Republic","11",4
+"Quinn Hughes","D","10/14/1999","Orlando, FL","10",4
+"Noah Juulsen","D","4/2/1997","Surrey, BC","04",2
+"Tyler Myers","D","2/1/1990","Houston, TX","02",1
+"Carson Soucy","D","7/27/1994","Viking, AB","07",3
+"Casey DeSmith","G","8/13/1991","Rochester, NH","08",3
+"Thatcher Demko","G","12/8/1995","San Diego, CA","12",4
+"Arturs Silovs","G","3/22/2001","Riga, Latvia","03",1
+"Michael Amadio","C","5/13/1996","Sault Ste. Marie, ON","05",2
+"Brendan Brisson","C","10/22/2001","Manhattan Beach, CA","10",4
+"Paul Cotter","C","11/16/1999","Canton, MI","11",4
+"Pavel Dorofeyev","C","10/26/2000","Nizhny Tagil, Russia","10",4
+"Jack Eichel","C","10/28/1996","North Chelmsford, MA","10",4
+"Brett Howden","C","3/29/1998","Calgary, AB","03",1
+"William Karlsson","C","1/8/1993","Marsta, Sweden","01",1
+"Jonathan Marchessault","C","12/27/1990","Cap-Rouge, PQ","12",4
+"Chandler Stephenson","C","4/22/1994","Saskatoon, SK","04",2
+"Ivan Barbashev","LW","12/14/1995","Moscow, Russia","12",4
+"William Carrier","LW","12/20/1994","LaSalle, PQ","12",4
+"Max Comtois","LW","1/8/1999","Longueuil, PQ","01",1
+"Keegan Kolesar","RW","4/8/1997","Brandon, MB","04",2
+"Jonas Rondbjerg","RW","3/31/1999","Horsholm, Denmark","03",1
+"Mark Stone","RW","5/13/1992","Winnipeg, MB","05",2
+"Lukas Cormier","D","3/27/2002","Ste-Marie-de-Kent, NB","03",1
+"Nicolas Hague","D","12/5/1998","Kitchener, ON","12",4
+"Ben Hutton","D","4/20/1993","Brockville, ON","04",2
+"Kaedan Korczak","D","1/29/2001","Yorkton, SK","01",1
+"Alec Martinez","D","7/26/1987","Rochester Hills, MI","07",3
+"Brayden McNabb","D","1/21/1991","Davidson, SK","01",1
+"Brayden Pachal","D","8/23/1999","Estevan, SK","08",3
+"Alex Pietrangelo","D","1/18/1990","King City, ON","01",1
+"Shea Theodore","D","8/3/1995","Langley, BC","08",3
+"Zach Whitecloud","D","11/28/1996","Brandon, MB","11",4
+"Adin Hill","G","5/11/1996","Comox, BC","05",2
+"Logan Thompson","G","2/25/1997","Calgary, AB","02",1
+"Jesper Vikman","G","3/11/2002","Stockholm, Sweden","03",1
+"Nic Dowd","C","5/27/1990","Huntsville, AL","05",2
+"Evgeny Kuznetsov","C","5/19/1992","Chelyabinsk, Russia","05",2
+"Hendrix Lapierre","C","2/9/2002","Gatineau, PQ","02",1
+"Alex Limoges","C","9/16/1997","Winchester, VA","09",3
+"Connor McMichael","C","1/15/2001","Ajax, ON","01",1
+"Alexei Protas","C","1/6/2001","Vitebsk, Belarus","01",1
+"Michael Sgarbossa","C","7/25/1992","Campbellville, ON","07",3
+"Dylan Strome","C","3/7/1997","Mississauga, ON","03",1
+"Nicolas Aube-Kubel","RW","5/10/1996","Slave Lake, AB","05",2
+"Beck Malenstyn","LW","2/4/1998","Delta, BC","02",1
+"Sonny Milano","LW","5/12/1996","Massapequa, NY","05",2
+"T.J. Oshie","RW","12/23/1986","Everett, WA","12",4
+"Alex Ovechkin","LW","9/17/1985","Moscow, USSR","09",3
+"Matthew Phillips","RW","4/6/1998","Calgary, AB","04",2
+"Tom Wilson","RW","3/29/1994","Toronto, ON","03",1
+"Alexander Alexeyev","D","11/15/1999","St. Petersberg, Russia","11",4
+"John Carlson","D","1/10/1990","Natick, MA","01",1
+"Martin Fehervary","D","10/6/1999","Bratislava, Slovakia","10",4
+"Hardy Haman Aktell","D","7/4/1998","Kage, Sweden","07",3
+"Nick Jensen","D","9/21/1990","Rogers, MN","09",3
+"Lucas Johansen","D","11/16/1997","Vancouver, BC","11",4
+"Dylan McIlrath","D","4/20/1992","Winnipeg, MB","04",2
+"Rasmus Sandin","D","3/7/2000","Uppsala, Sweden","03",1
+"Darcy Kuemper","G","5/5/1990","Saskatoon, SK","05",2
+"Charlie Lindgren","G","12/18/1993","Lakeville, MN","12",4
+"Hunter Shepard","G","11/7/1995","Cohasset, MN","11",4
+"Mason Appleton","C","1/15/1996","Green Bay, WI","01",1
+"Morgan Barron","C","12/2/1998","Halifax, NS","12",4
+"David Gustafsson","C","4/11/2000","Tingsyrd, Sweden","04",2
+"Rasmus Kupari","C","3/15/2000","Kotka, Finland","03",1
+"Adam Lowry","C","3/29/1993","St. Louis, MO","03",1
+"Vladislav Namestnikov","C","11/22/1992","Zhukovskiy, Russia","11",4
+"Cole Perfetti","C","1/1/2002","Whitby, ON","01",1
+"Mark Scheifele","C","3/15/1993","Kitchener, ON","03",1
+"Kyle Connor","LW","12/9/1996","Shelby Township, MI","12",4
+"Nikolaj Ehlers","LW","2/14/1996","Aalborg, Denmark","02",1
+"Alex Iafallo","LW","12/21/1993","Eden, NY","12",4
+"Nino Niederreiter","RW","9/8/1992","Chur, Switzerland","09",3
+"Declan Chisholm","D","1/12/2000","Bowmanville, ON","01",1
+"Dylan DeMelo","D","5/1/1993","London, ON","05",2
+"Brenden Dillon","D","11/13/1990","New Westminster, BC","11",4
+"Josh Morrissey","D","3/28/1995","Calgary, AB","03",1
+"Neal Pionk","D","7/29/1995","Omaha, NE","07",3
+"Dylan Samberg","D","1/24/1999","Saginaw, MN","01",1
+"Nate Schmidt","D","7/16/1991","St. Cloud, MN","07",3
+"Logan Stanley","D","5/26/1998","Waterloo, ON","05",2
+"Laurent Brossoit","G","3/23/1993","Port Alberni, BC","03",1
+"Connor Hellebuyck","G","5/19/1993","Commerce, MI","05",2

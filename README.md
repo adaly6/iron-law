@@ -14,7 +14,6 @@ This project delves into the intriguing phenomenon of the relative-age effect in
 - [Results](#results)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

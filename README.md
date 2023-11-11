@@ -58,7 +58,7 @@ This general thesis does not only apply to Canadian hockey players, as Gladwell 
 
 **Analogy 1: Tallest Tree in the Forest**
 
-Gladwell offers us an analogy in __Outliers__, the tallest tree in the forest came from from a good seed - this is not in question. But it did not become the tallest tree in the forest simply because it grew from a good seed; it became the tallest tree because it was planted in good soil and because no other trees blocked its sunlight.
+Gladwell offers us an analogy in _Outliers_, the tallest tree in the forest came from from a good seed - this is not in question. But it did not become the tallest tree in the forest simply because it grew from a good seed; it became the tallest tree because it was planted in good soil and because no other trees blocked its sunlight.
 
 **Story 1: Steve Jobs and the Early Computer Advantage**
 

@@ -1,4 +1,4 @@
-# Outliers in Canadian Hockey Players: An Analysis Inspired by Malcolm Gladwell's "Outliers"
+# Anomalies in Canadian Hockey Players: An Analysis Inspired by Malcolm Gladwell's "Outliers"
 
 ## Overview
 

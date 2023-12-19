@@ -60,7 +60,7 @@ This general thesis does not only apply to Canadian hockey players, as Gladwell 
 
 Gladwell offers us an analogy in _Outliers_, the tallest tree in the forest came from from a good seed - this is not in question. But it did not become the tallest tree in the forest simply because it grew from a good seed; it became the tallest tree because it was planted in good soil and because no other trees blocked its sunlight.
 
-**Story 2: Bill Gates and the Seeding of Success**
+**Story 1: Bill Gates and the Seeding of Success**
 
 In the narrative of achievement, Bill Gates emerges as a prime example. Dropping out of Harvard in 1975 to establish Microsoft, Gates attributes much of his success to the fertile grounds of Lakeside School. Unlike many high schools at the time, Lakeside uniquely provided computer access, a rare commodity. Introduced to computing in the late 1960s, Gates and his peers were given unprecedented freedom to explore. Instead of conventional teaching, the school opened the gates to unbridled curiosity.
 
@@ -70,7 +70,7 @@ The school's decision to embrace rather than restrict access to computers allowe
 
 Imagine success as a chessboard, where each move represents an opportunity or setback. Like chess pieces, individuals navigate this board, aiming for success. However, not all pieces start in the same position. Some begin closer to the center, with a strategic advantage. Others start on the outskirts, requiring more strategic moves to reach success. This analogy reflects the unequal starting points individuals face in their journeys. Success, much like chess, involves both skillful maneuvering and initial positioning, emphasizing the need to consider the broader landscape in the pursuit of one's goals.
 
-**Story 3: Mark Zuckerberg and the Social Network Advantage**
+**Story 2: Mark Zuckerberg and the Social Network Advantage**
 
 Embark on the story of Mark Zuckerberg, the co-founder of Facebook, and unravel the hidden layers of his success, much like Bill Gates in the world of technology. Mark's journey begins at Harvard University, where he conceived the idea for Facebook in 2004. What sets Mark apart is not just his visionary thinking but the unique starting advantage he had. At Harvard, Zuckerberg found himself in an environment rich with social connections and academic brilliance. The university, teeming with students from diverse backgrounds, provided the ideal breeding ground for a social networking platform. Unlike other campuses, Harvard's atmosphere allowed Zuckerberg to witness firsthand the complexities of human connections and social dynamics. The pivotal moment came when Zuckerberg, fueled by the university's vibrant social life, conceptualized a platform that would digitize and expand social interactions. The access to Harvard's social scene, parties, and interpersonal relationships became the catalyst for Facebook's inception.
 

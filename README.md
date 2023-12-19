@@ -60,9 +60,11 @@ This general thesis does not only apply to Canadian hockey players, as Gladwell 
 
 Gladwell offers us an analogy in _Outliers_, the tallest tree in the forest came from from a good seed - this is not in question. But it did not become the tallest tree in the forest simply because it grew from a good seed; it became the tallest tree because it was planted in good soil and because no other trees blocked its sunlight.
 
-**Story 1: Steve Jobs and the Early Computer Advantage**
+**Story 2: Bill Gates and the Seeding of Success**
 
-Consider the story of Steve Jobs, a tech visionary who co-founded Apple. In high school, Jobs had a unique advantage – access to computers. At a time when computers were scarce, Jobs found an opportunity to explore his passion. His school, equipped with computers through a government program, allowed him to delve into this emerging technology. This early exposure set him on a trajectory that ultimately led to the creation of groundbreaking products. Jobs' story underscores the impact of early opportunities and access, illustrating how seemingly small advantages can pave the way for extraordinary success.
+In the narrative of achievement, Bill Gates emerges as a prime example. Dropping out of Harvard in 1975 to establish Microsoft, Gates attributes much of his success to the fertile grounds of Lakeside School. Unlike many high schools at the time, Lakeside uniquely provided computer access, a rare commodity. Introduced to computing in the late 1960s, Gates and his peers were given unprecedented freedom to explore. Instead of conventional teaching, the school opened the gates to unbridled curiosity.
+
+The school's decision to embrace rather than restrict access to computers allowed Gates to cultivate his passion. This early exposure set the stage for Microsoft's founding. Gates emphasizes the pivotal role Lakeside played in shaping his trajectory, expressing gratitude for the opportunities that paved the way for extraordinary success. Much like the tallest tree in the forest analogy, Gates' story illustrates that while talent is crucial, the environment and opportunities provided by Lakeside acted as the fertile soil that fostered his groundbreaking achievements.
 
 **Analogy 2: The Chessboard and Strategic Moves**
 
